@@ -23,3 +23,28 @@ D:\SGU\Thuong Mai Dien Tu\project\code\BabyToys\BabyToys\obj\Debug\BabyToys.cspr
 D:\SGU\Thuong Mai Dien Tu\project\code\BabyToys\BabyToys\obj\Debug\BabyToys.dll
 D:\SGU\Thuong Mai Dien Tu\project\code\BabyToys\BabyToys\obj\Debug\BabyToys.pdb
 D:\SGU\Thuong Mai Dien Tu\project\code\BabyToys\BabyToys\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\BabyToys.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\BabyToys.pdb
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Net.Http.Formatting.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Http.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Http.WebHost.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Mvc.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Razor.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.WebPages.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.WebPages.Razor.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\EntityFramework.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\Newtonsoft.Json.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Net.Http.Formatting.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Http.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Http.WebHost.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Mvc.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.Razor.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.WebPages.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\bin\System.Web.WebPages.Razor.xml
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\obj\Debug\BabyToys.csprojResolveAssemblyReference.cache
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\obj\Debug\BabyToys.dll
+C:\Users\MaiHuynh\Documents\GitHub\ThuongMaiDienTu_Web\BabyToys\obj\Debug\BabyToys.pdb
